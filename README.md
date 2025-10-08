@@ -16,3 +16,12 @@ Interactive CLI experience using Python’s input() function
 Two story template options
 
 Beginner-friendly code structure with clear functions
+
+# How To Run
+1. Make sure you have Python 3 installed on your computer.
+
+2. Clone this repository or download the .py file.
+
+3. Open your terminal and navigate to the project folder.
+
+4. Run the program: python madlibs.py
