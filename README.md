@@ -17,6 +17,15 @@ Two story template options
 
 Beginner-friendly code structure with clear functions
 
+# What I Learned
+How to use variables and string interpolation (f-strings)
+
+Handling user input and validating responses
+
+Writing modular and reusable Python functions
+
+Practicing basic flow control with loops and conditionals
+
 # How To Run
 1. Make sure you have Python 3 installed on your computer.
 
